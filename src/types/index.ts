@@ -5,5 +5,5 @@ export interface PostProps {
 }
 
 export interface ModalProps {
-  id: number;
+  id: any;
 }
